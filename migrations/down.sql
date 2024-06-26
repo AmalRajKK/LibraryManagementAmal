@@ -1,0 +1,1 @@
+drop database library_management;
